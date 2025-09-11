@@ -47,10 +47,10 @@ Explore more in my [GitHub Repositories](https://github.com/sameerkhuhro?tab=rep
 
 ## 📊 GitHub Stats & Languages
 
-![Sameer Khuhro GitHub Stats](https://user-images.githubusercontent.com/placeholder-for-your-uploaded-image.png)
-<sub>_Total Stars, Commits, PRs, and Issues for 2025. Most used languages: HTML (76.8%), CSS (23.2%)_</sub>
+![Sameer Khuhro GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerkhuhro&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerkhuhro&layout=compact&theme=radical)
 
----
+--
 
 ## 📝 About Me
 
