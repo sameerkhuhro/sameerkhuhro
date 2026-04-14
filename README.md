@@ -1,81 +1,79 @@
 # 👋 Hi, I'm Sameer Khuhro!
 
-![Student Ambassador Badge](https://img.shields.io/badge/Microsoft%20Learn%20Student%20Ambassador-Beta-blueviolet)  
-![Azure Enthusiast](https://img.shields.io/badge/Azure%20Enthusiast-Cloud-blue)  
-![Frontend Web Developer](https://img.shields.io/badge/Frontend%20Web%20Developer-HTML%2FCSS%2FJS-orange)  
+![Student Ambassador Badge](https://img.shields.io/badge/Microsoft%20Learn%20Student%20Ambassador-Beta-blueviolet)
+![Azure Enthusiast](https://img.shields.io/badge/Azure%20Enthusiast-Cloud-blue)
+![DevOps Enthusiast](https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD-orange)
 
 ---
 
 ## 🏆 Achievements
 
-- **Top performer in Azure Fellowship by Bytwise Ltd**
-- Microsoft Learn Student Ambassador (Beta) – Co-Lead at MUET Khairpur
+* **Top Performer – Azure Fellowship (Bytewise Ltd)**
+* Microsoft Learn Student Ambassador (Beta) – Co-Lead MUET Khairpur
 
 ---
 
-## 💼 Profession / Current Role
+## 💼 Current Focus
 
-**Student (Software Engineering)**  
-**Frontend Web Developer**  
-Cloud Enthusiast (Azure, Databases)
-
----
-
-## 🔑 Top Skills & Technologies
-
-- **Web Development:** HTML, CSS, JavaScript, Bootstrap
-- **Programming Languages:** Java, C++, JavaScript
-- **Database Technologies:** SQLite, MySQL
-- **Cloud Computing:** Microsoft Azure
-- **Other Tools:** GitHub, VS Code, PowerPoint (presentations/workshops)
+* DevOps & Cloud Engineering (Azure, Docker, CI/CD)
+* Frontend Development (HTML, CSS, JavaScript)
+* Building real-world deployment projects
 
 ---
 
-## 🚀 Favorite / Featured Projects
+## 🔑 Tech Stack
 
-- **Contact Management System 📇**  
-  *Tech:* Java, JavaFX, SQLite  
-  *Features:* Dark Mode, Import/Export, Smart Duplicate Detection, OCR, and more.
-
-- **Portfolio Website 🌐**  
-  *Tech:* HTML, CSS  
-  *Status:* Currently adding dark/light mode, animations, and project cards.
-
-Explore more in my [GitHub Repositories](https://github.com/sameerkhuhro?tab=repositories).
+* **DevOps:** Docker, GitHub Actions (CI/CD)
+* **Cloud:** Microsoft Azure (Container Apps, ACR)
+* **Frontend:** HTML, CSS, JavaScript, Bootstrap
+* **Languages:** Java, C++, JavaScript
+* **Databases:** MySQL, SQLite
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 🚀 Featured Projects
 
-![Sameer Khuhro GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerkhuhro&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerkhuhro&layout=compact&theme=radical)
+### 🔹 Dockerized eCommerce App
 
---
+* Containerized using Docker + Nginx
+* Deployed on Azure Container Apps
+* CI/CD pipeline using GitHub Actions
 
-## 📝 About Me
+### 🔹 Recipe Finder App (CI/CD Project)
 
-I’m Sameer Khuhro, a passionate Software Engineering student and frontend web developer with a strong interest in cloud computing, software development, and real-world problem solving.  
-As a Beta MLSA, I love hosting workshops, sharing knowledge, and building projects that make life easier.
+* API-based dynamic web app
+* Dockerized and deployed on Azure
+* Automated deployment pipeline
+
+👉 Explore more:
+https://github.com/sameerkhuhro?tab=repositories
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerkhuhro&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerkhuhro&layout=compact)
+
+## 🧠 About Me
+
+I’m Sameer Khuhro, a Software Engineering student passionate about DevOps, cloud computing, and building scalable applications.
+I enjoy automating workflows, deploying applications, and sharing knowledge through tech communities.
 
 ---
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/sameerkhuhro)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://rb.gy/n1lff6)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sameer.khuhro)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sameer.A.khuhro)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github\&logoColor=white)](https://github.com/sameerkhuhro)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://www.instagram.com/sameer.khuhro)
 
 ---
 
-## 🎯 Fun Facts & Hobbies
+## 🎯 Fun Facts
 
-- Cricket lover 🏏
-- Enjoys public speaking, event hosting, and teaching tech concepts
-- Loves experimenting with new technologies and AI tools
-- Passionate about networking & community building 🌍
-- Nature lover 🌿
-
----
-
-<!-- For your own repository, upload the stats image and update the image URL above accordingly! -->
+* Cricket lover 🏏
+* Tech event organizer & public speaker
+* Passionate about DevOps & cloud automation
+* Loves exploring new technologies 🚀
