@@ -77,21 +77,9 @@ Dockerfiles, images & containers, port mapping, networks, volumes, bind mounts, 
 
 With Linux, Red Hat and Docker behind me, I'm now moving into **CI/CD, Microsoft Azure and cloud deployment automation** — the final steps to becoming a **DevOps Engineer**.
 
-```mermaid
-flowchart LR
-    A["🐧 Linux<br/>✅ Done"] --> B["🎩 Red Hat Linux<br/>✅ Done"]
-    B --> C["🐳 Docker<br/>✅ Done"]
-    C --> D["⚙️ CI/CD<br/>▶ Now"]
-    D --> E["☁️ Azure<br/>▶ Now"]
-    E --> F["🚀 DevOps Engineer"]
-
-    style A fill:#052e1a,stroke:#22c55e,color:#fff
-    style B fill:#052e1a,stroke:#22c55e,color:#fff
-    style C fill:#052e1a,stroke:#22c55e,color:#fff
-    style D fill:#0c2a44,stroke:#38bdf8,color:#fff
-    style E fill:#0c2a44,stroke:#38bdf8,color:#fff
-    style F fill:#6366f1,stroke:#c084fc,color:#fff
-```
+<div align="center">
+  <img src="pipeline.svg" alt="My DevOps roadmap" width="100%"/>
+</div>
 
 > **Development → Version Control → Containerization → CI/CD → Cloud Deployment**
 
