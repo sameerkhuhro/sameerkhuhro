@@ -231,7 +231,7 @@ Organizing technical events and workshops, helping students explore modern techn
 
 <img src="https://streak-stats.demolab.com?user=sameerkhuhro&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameerkhuhro&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="activity graph" width="100%"/>
+<img src="https://ghchart.rshah.org/0ea5e9/sameerkhuhro" alt="contribution graph" width="90%"/>
 
 </div>
 
