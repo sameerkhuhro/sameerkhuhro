@@ -1,7 +1,7 @@
 <!-- ═══════════════ ANIMATED INTRO ═══════════════ -->
 <div align="center">
 
-<img src="assets/intro.svg" alt="Sameer Khuhro — Web Developer & aspiring DevOps Engineer" width="100%"/>
+<img src="intro.svg" alt="Sameer Khuhro — Web Developer & aspiring DevOps Engineer" width="100%"/>
 
 <br/>
 
